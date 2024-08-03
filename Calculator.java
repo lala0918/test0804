@@ -1,7 +1,7 @@
 public class Calculator {
 
 <<<<<<< HEAD
-    private int fakecount;
+    private int fakecount
 =======
     private int count;
 
