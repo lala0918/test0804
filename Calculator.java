@@ -1,4 +1,7 @@
 public class Calculator {
+
+    private int fakecount;
+
     public int add(int a, int b) {
         return a + b;
     }
